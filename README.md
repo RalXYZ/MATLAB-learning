@@ -1,12 +1,15 @@
 # MATLAB-learning
 This repository contains the notes taken by myself while learning MATLAB.  
 If you want to learn some basic stuff of MATLAB or GNU Octave, or if you want to do some basic experiments related to machine learning, my notes may help you.  
+Do not count on memorizing the name of every function and command. It is almost impossible. What you need to do is to keep in mind that there exists these command, and if you forget what its name is, just look it up on the Internet.  
 Some of these codes are similar to the examples given by Andrew Ng on his machine learning course.  
 
 ## Content in each file
-| File Name | Content |
-| :-------- |:---------|
-| 1.m    | basic operations, print, matrices |
+| File Name | Focus on | Content |
+| :-------- | :------- |:---------|
+| note1.m   | basic  | arithmetic, print, matrices |
+| note2.m   | data   | file, variables, matrix index |
+| note3.m   | compute on matrix   | element-wise operations of matrix |
 
 ## How to use
 1. Download any .m file.
