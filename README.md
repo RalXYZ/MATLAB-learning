@@ -6,7 +6,7 @@ Some of these codes are similar to the examples given by Andrew Ng on his machin
 
 ## Content in each file
 | File Name | Focus on | Content | Resource File |
-| :-------- | :------- |:---------|
+| :-------- | :------- |:--------- | :--------- |
 | note1.m   | basic  | arithmetic, print, matrices | null |
 | note2.m   | data   | file, variables, matrix index | myMatrix.dat |
 | note3.m   | compute on matrix   | element-wise operations of matrix | null |
